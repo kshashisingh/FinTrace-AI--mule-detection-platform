@@ -280,5 +280,3 @@ Made with ❤️ by **Team KALKI**
 
 </div>
 
-
-## 🏗️ Solution Architecture
